@@ -1,0 +1,29 @@
+rafeckj
+const functon hadleit=()=>{
+    navigate("/home")
+}
+onclick{handleit}
+
+
+
+
+
+functon =()=>{
+    handleincreatement +=count;
+    hanldedecrement -=count
+}
+
+
+
+
+
+
+
+
+
+
+
+
+kdskfjkj,jgi=()=>{
+    const handleClick = () => {}
+}
